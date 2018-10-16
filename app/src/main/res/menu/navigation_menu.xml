@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/newsFeed"
+        android:icon="@mipmap/baseline_rss_feed_black_24"
+        android:title="News Feed"
+        />
+    <item android:id="@+id/schedule"
+        android:icon="@mipmap/baseline_schedule_black_24"
+        android:title="Schedule"
+        />
+    <item android:id="@+id/live"
+        android:icon="@mipmap/baseline_cast_black_24"
+        android:title="Live"/>
+    <item android:id="@+id/latest_launch"
+        android:icon="@mipmap/baseline_update_black_24"
+        android:title="Latest Launch"/>
+    <item android:id="@+id/setting"
+        android:icon="@mipmap/baseline_settings_black_24"
+        android:title="Setting"/>
+    <item android:id="@+id/exit"
+        android:icon="@mipmap/baseline_exit_to_app_black_24"
+        android:title="Exit"/>
+
+</menu>
