@@ -24,6 +24,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private NavigationView mNavigationView;
     Fragment myFragment;
 
+/*
+    This is a Test commite
+*/
+
+    private String name; //change made here
+
+
+
+
+
 
 
     @SuppressLint("ResourceType")
